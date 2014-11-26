@@ -75,7 +75,6 @@ a{
 	line-height: 50px;
 	background-color: white;
 	margin: auto;
-    margin-top: -25px;
 }
 .circletext {
 }
@@ -104,9 +103,7 @@ a{
     float: left;
     clear: left;
     width: 300px;
-    padding-left: 40px;
-    padding-right: 40px;
-    text-align: left;
+   padding: 50px;
 
 }
 .p4{
@@ -114,11 +111,13 @@ a{
     width: 300px;
     padding-left: 40px;
     padding-right: 40px;
+    padding-top: 50px;
 }
 .p5{
     float: left;
     width: 300px;
     padding-left: 40px;
     padding-right: 40px;
+    padding-top: 50px;
 
 }
