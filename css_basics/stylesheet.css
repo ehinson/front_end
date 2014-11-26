@@ -1,0 +1,136 @@
+body {
+	margin: 0px;
+	font-family: Helvetica, Arial, sans-serif;
+
+}
+ul {
+	background-color: lightgray;
+	border-bottom: 2px gray solid;
+	height: 40px;
+	margin: 0px;
+	padding: 5px;
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+a{
+	text-decoration: none;
+	margin: 20px;
+	color: darkgray;
+
+}
+a:hover, :visited {
+	color: orange;
+}
+
+.container {
+	background-color: white;
+}
+
+.topbar {
+     background-color: black;
+     height: 10px;
+}
+
+.header1 {
+	background-color: white;
+	height: 300px;
+}
+.header2 {
+	background-color: lightgray;
+	border-top: 2px solid gray;
+	padding: 10px;
+}
+.rightlist{
+	text-decoration: none;
+	display: inline-block;
+	float: right;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.leftlist{
+	text-decoration: none;
+	display: inline-block;
+	float: left;
+	font-size: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 10px;
+}
+.circle {
+	border-radius: 50%;
+	border: 2px gray solid;
+	width: 50px;
+	height: 50px;
+	color: gray;
+	text-align: center;
+	font-size: 20px;
+	margin-top: -25px;
+	line-height: 50px;
+	background-color: white;
+	margin: auto;
+	margin-top: -25px;
+}
+.circletext {
+}
+
+.p1{
+	margin: 0px;
+	z-index: 1;
+	font-size: 200px;
+	background-color: white;
+	line-height: 275px;
+	display: inline-block;
+
+}
+.p2{
+    margin: 0px;
+	position: absolute;
+	z-index: 0;
+	font-size: 200px;
+	line-height: 275px;
+	display: inline-block;
+}
+.lorem {
+    padding: 20px;
+    background-color: lightgray;
+    border-top: 2px gray solid;
+    min-height: 400px;
+
+}
+.p3{
+    float: left;
+    clear: left;
+    width: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+
+}
+.p4{
+    float: left;
+    width: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+}
+.p5{
+    float: left;
+    width: 300px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 50px;
+
+}
+.orange{
+	color: orange;
+}
