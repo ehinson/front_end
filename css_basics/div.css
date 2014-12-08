@@ -1,0 +1,33 @@
+div {
+	height: 50px;
+	width: 100px;
+	border: 2px solid black;
+	border-radius: 5px;
+	margin-top: 36px;
+	float:left;
+	clear: right;
+	display: block;
+	position: absolute;
+
+}
+
+#one {
+	background-color: #f00;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 25px;
+    clear: both;
+
+}
+
+#one:hover{
+}
+#two {
+	background-color: #00f;
+}
+#three {
+	background-color: #ffd700;
+}
+#four {
+	background-color: #308014;
+}

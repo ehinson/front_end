@@ -1,9 +1,9 @@
 
 $(document).ready(function(){
-  $(".p1").hover(function(){
-    $(".p2").animate({left:"+=100px"});
+  $(".p1").mouseenter(function(){
+    $(".p2").css("display", "inline");
   });
-  $(".p1").click(function(){
-    $(".p2").animate({left:"0"});
+  $(".p1").mouseleave(function(){
+    $(".p2").css("display", "none");
   });
 });
